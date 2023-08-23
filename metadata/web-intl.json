@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "ptrfrncsmrph",
+    "githubRepo": "purescript-web-intl"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 3543,
+      "hash": "sha256-mkMofUfKeQA82mj3gAljeJ0IaB3N2UH3Ne+Nl0w3qFc=",
+      "publishedTime": "2023-06-07T22:33:02.000Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.0": {
+      "bytes": 4764,
+      "hash": "sha256-kw4lt8qvf3L876BhJi91Z3XRFtkf2PkFsCbr0+PLJ50=",
+      "publishedTime": "2023-06-10T00:22:51.000Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 6367,
+      "hash": "sha256-0cGPRi3VUVrIhGh4+Fxz7kAe8A2LZG/+0f6Zfp7NEYo=",
+      "publishedTime": "2023-06-16T23:30:40.000Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 6950,
+      "hash": "sha256-jC2keoJwMuJGrOS4vMdZ5Xacr8NdiascuzaU1v4ijB8=",
+      "publishedTime": "2023-06-28T05:03:40.000Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 7199,
+      "hash": "sha256-ZRmwhVB9nHHaWEM48dfoWYMXIW6DV5QvzAyoPFs/sko=",
+      "publishedTime": "2023-07-20T06:21:08.000Z",
+      "ref": "v0.4.0"
+    }
+  },
+  "unpublished": {}
+}

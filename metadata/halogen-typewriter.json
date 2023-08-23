@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "qwbarch",
+    "githubRepo": "halogen-typewriter"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 4057,
+      "hash": "sha256-cze+QVcE9sUPMGlrtWbRzC+Z/PtM4T+QdxkG8JnZ8cA=",
+      "publishedTime": "2023-07-16T05:02:02.000Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 4264,
+      "hash": "sha256-4sG7M0/dWkeksk4z9XqJaY5r/9JqEFY3qnL9Z+s657Q=",
+      "publishedTime": "2023-07-16T07:44:04.000Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 4268,
+      "hash": "sha256-4QKeZwrjsC5b5xoilHUQME2OJZB3sgePWQiIdsRyvpc=",
+      "publishedTime": "2023-07-18T00:15:07.000Z",
+      "ref": "v1.0.2"
+    }
+  },
+  "unpublished": {}
+}

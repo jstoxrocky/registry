@@ -27,6 +27,24 @@
       "hash": "sha256-6CbEQKlTyUlBmVjijhqVXljVuXw9ZgHAqin/46toMAw=",
       "publishedTime": "2019-12-27T00:29:39.000Z",
       "ref": "v1.0.0"
+    },
+    "1.2.0": {
+      "bytes": 5198,
+      "hash": "sha256-wtmyg0rG4A7Jgj2BpGugN74OKNr8abX4qXHNadx/Trk=",
+      "publishedTime": "2023-06-15T20:10:10.000Z",
+      "ref": "v1.2.0"
+    },
+    "1.2.1": {
+      "bytes": 5187,
+      "hash": "sha256-pECdpzcM49TRTkyOGDpSgAIFIAL/07gmvw7BMkvd8dg=",
+      "publishedTime": "2023-06-15T20:13:22.000Z",
+      "ref": "v1.2.1"
+    },
+    "1.2.2": {
+      "bytes": 5190,
+      "hash": "sha256-Z3N68sEtzwCGJ59HVOFRx8SIq2OX1yXHjv/4a1hVClg=",
+      "publishedTime": "2023-06-15T23:14:04.000Z",
+      "ref": "v1.2.2"
     }
   },
   "unpublished": {}

@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "thought2",
+    "githubRepo": "purescript-chameleon-styled"
+  },
+  "published": {
+    "0.0.3": {
+      "bytes": 4567,
+      "hash": "sha256-Z62nbpiuiOE+Sqa1vsdqeyOlY7XskQDsRH1keFj38NQ=",
+      "publishedTime": "2023-07-31T14:38:28.000Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 4567,
+      "hash": "sha256-ZeULLj5b4vYpOs2QXp9c0r8EX3seQ7Kmkfa/Ut5ji+w=",
+      "publishedTime": "2023-07-31T17:21:54.000Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.8": {
+      "bytes": 4574,
+      "hash": "sha256-56ZxJD7wEtjdbI5xHvW2LUmtndWFGhDMjorsPsq98e8=",
+      "publishedTime": "2023-07-31T18:14:37.000Z",
+      "ref": "v0.0.8"
+    },
+    "0.1.0": {
+      "bytes": 4645,
+      "hash": "sha256-xAPNCk/a4kGr2/w9EzZIkylwWDZFvjZEFC/YrqD94sk=",
+      "publishedTime": "2023-08-03T06:35:05.000Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 4653,
+      "hash": "sha256-MSJ6Ln9PuO2BUSGiMKgk2CEJgNrnvKyAnEE1BQivWM8=",
+      "publishedTime": "2023-08-04T10:52:46.000Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 4735,
+      "hash": "sha256-ZhbDxgRAhbMPxJYaXAcoiIr9yOMJRBU7T8KP2QX4C3M=",
+      "publishedTime": "2023-08-13T11:55:32.000Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

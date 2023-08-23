@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "thought2",
+    "githubRepo": "purescript-chameleon"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 38284,
+      "hash": "sha256-ZhJjYmn9rpv7ccUNqCOITln3CkI10i9oeFhr5vqWnfw=",
+      "publishedTime": "2023-07-30T17:17:04.000Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 38284,
+      "hash": "sha256-0IozDQ4tDzhOBYqDAjVgJBmrhgNOLgV4iYbHHRpwMbs=",
+      "publishedTime": "2023-07-30T17:25:05.000Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 38285,
+      "hash": "sha256-V7tFqB5u81GY9sBgad/boKlYdzDBXcCcXVAswCG1nZ8=",
+      "publishedTime": "2023-07-30T18:30:54.000Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 38285,
+      "hash": "sha256-MhXjkkf/sbjAlbOA0iWu0Y0CYyXELYP0UwRJJll/x/M=",
+      "publishedTime": "2023-07-31T04:09:47.000Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 38287,
+      "hash": "sha256-D38fcymuhShuN7+rg2f2CspPjkR0nFgz1wXr/pKuQiQ=",
+      "publishedTime": "2023-07-31T04:17:18.000Z",
+      "ref": "v0.0.5"
+    },
+    "1.0.0": {
+      "bytes": 38109,
+      "hash": "sha256-8X9S0amVg6bxrQXTGOOHdIjf6WFInPR2r921xBxpDEA=",
+      "publishedTime": "2023-08-13T07:46:23.000Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

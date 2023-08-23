@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "gbagan",
+    "githubRepo": "purescript-z3"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 6777,
+      "hash": "sha256-9OoReWVBMDRquMGWR3yG98Xvz9PeMQLT7lFSAfFyH8U=",
+      "publishedTime": "2023-05-05T16:45:43.000Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 8734,
+      "hash": "sha256-smw4c6eVA0AZOltlE1iVYDvD/KQxDjrz47UpZKwHg90=",
+      "publishedTime": "2023-05-07T15:55:35.000Z",
+      "ref": "v0.0.2"
+    }
+  },
+  "unpublished": {}
+}
